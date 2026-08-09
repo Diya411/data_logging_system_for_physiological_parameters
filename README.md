@@ -211,36 +211,6 @@ Possible future improvements include:
 
 The report specifically identifies hardware miniaturization, additional sensors, predictive analytics, and cloud/telemedicine integration as major future directions.
 
-## 👩‍💻 Team
-
-**Project:** Data Logging System for Physiological Parameters — VITAL-CORE
-
-**Team Members:**
-
-* Divya Manohar Gurav
-* Anwesha Jana
-* Maithilee Dhananjay Kubal
-
-**Guide:** Prof. Sudhakar Yerme
-
-**Institution:** Usha Mittal Institute of Technology, S.N.D.T. Women's University, Mumbai
-
-## 📚 Project Documentation
-
-The complete project report contains:
-
-* Introduction and research motivation
-* Literature review
-* System architecture
-* Hardware interfacing
-* Software methodology
-* Data processing pipeline
-* AI integration
-* System validation
-* UML diagrams
-* Data Flow Diagrams
-* Implementation details
-* Conclusion and future scope
 
 ## ⚠️ Disclaimer
 
